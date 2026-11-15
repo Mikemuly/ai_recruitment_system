@@ -228,11 +228,3 @@ See [`docs/project_report.md`](docs/project_report.md) for:
 - Future Improvements
 
 ---
-
-## 👨‍💻 Developer
-
-**Student**: [Your Name]  
-**Reg No**: [Your Registration Number]  
-**Institution**: [Your University], Kenya  
-**Supervisor**: [Supervisor Name]  
-**Year**: 2024/2025
