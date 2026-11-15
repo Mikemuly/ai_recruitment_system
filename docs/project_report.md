@@ -1,10 +1,4 @@
 # AI Recruitment & CV Screening System
-## Final Year Project Report
-### Computer Science Department | Kenya
-
----
-
-## Title Page
 
 ---
 
