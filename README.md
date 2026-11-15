@@ -1,7 +1,5 @@
 # 🤖 AI Recruitment & CV Screening System
 
-**Final Year Project — Computer Science | Kenyan University**
-
 A full-stack intelligent recruitment platform that automates CV screening, ranks candidates using AI/NLP, and streamlines the hiring process for Kenyan organizations.
 
 ---
